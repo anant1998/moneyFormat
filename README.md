@@ -21,4 +21,4 @@ Countries supported
 Documentation and Samples
 -------------------
 
-[Link to test page](https://anant1998.github.io)
+[Link to test page](https://anant1998.github.io/example.html)
